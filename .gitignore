@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO training
+runs/
+*.pt
+
+# Dataset
+data/train/
+data/valid/
+data/test/
+
+# Other
+.DS_Store
